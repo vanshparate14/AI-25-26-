@@ -29,6 +29,7 @@ AI_TAE/
     ├── Practical 4/
     ├── Practical 5/
     └── Practical 6/
+    └── Practical 7/
 ```
 
 ## 🚀 Quick Start
@@ -71,7 +72,7 @@ X = sneha.
 true.
 ```
 
-### Prolog: Family
+### Prolog: Family Example
 ```
 ?- father(chandu, lakshit).
 true.
