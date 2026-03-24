@@ -1,4 +1,4 @@
-# AI_TAE - AI Lab Practicals and Prolog Examples
+# AI_TAE - AI Lab Practicals and Prolog Project
 
 ## 📋 Overview
 This repository contains lab practicals for **AI_TAE** (likely *Artificial Intelligence: Tools and Techniques in AI Engineering* or similar course). It includes:
