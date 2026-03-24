@@ -1,0 +1,3 @@
+Practical no. 07
+Write a Prolog Program to demonstrate the concept of Family
+relationship.
