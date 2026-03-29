@@ -10,6 +10,7 @@ This repository contains lab practicals for **AI_TAE** (likely *Artificial Intel
     - `code.py`: Executable Python code.
     - Screenshots of outputs/results.
 - **Root Prolog files** for logic-based reasoning:
+- Following are the examples
   - `legal_reasoning.pl`: Models crimes (theft, assault, fraud, traffic violations) with facts, rules, and punishments.
   - `parents.pl`: Family relationship queries (parent, sibling, grandparent, etc.).
 
