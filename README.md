@@ -31,6 +31,7 @@ AI_TAE/
     ├── Practical 5/
     └── Practical 6/
     └── Practical 7/
+    └── Practical 8/
 ```
 
 ## 🚀 Quick Start
