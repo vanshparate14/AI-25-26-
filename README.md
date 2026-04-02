@@ -3,7 +3,7 @@
 ## 📋 Overview
 This repository contains lab practicals for **AI_TAE** (likely *Artificial Intelligence: Tools and Techniques in AI Engineering* or similar course). It includes:
 
-- **6 Python-based lab practicals** (Practicals/1-6) demonstrating AI algorithms, matrix manipulation, and problem-solving.
+- **12 Python-based lab practicals** (Practicals/1-12) demonstrating AI algorithms, matrix manipulation, and problem-solving.
   - Each practical has:
     - `aim.txt`: Lab objective.
     - `theory.md`: Detailed theory, algorithm, and applications.
